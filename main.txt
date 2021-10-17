@@ -1,0 +1,12 @@
+The same qualities a good tester has 
+are useful for a QA engineer. Additionally,
+they must be able to understand the entire
+software development process and how it can 
+fit into the business approach and goals of
+the organization. Communication skills and
+the ability to understand various sides of
+issues are important. In organizations in 
+the early stages of implementing QA processes,
+patience and diplomacy are especially needed.
+An ability to find problems as well as to see
+'what's missing' is important for inspections and reviews.        
